@@ -1,8 +1,8 @@
-# COAUTHOR: Response Times & Perceived Contributions Analysis  
+# CoAuthor: Response Times & Perceived Contributions Analysis  
 **Understanding Human-AI Collaborative Writing**
 
 ## Project Overview  
-This project analyzes human-AI collaborative writing using the **COAUTHOR dataset**, which tracks keystroke-level interactions between writers and GPT-3. The focus is on:  
+This project analyzes human-AI collaborative writing using the **CoAuthor dataset**, which tracks keystroke-level interactions between writers and GPT-3. The focus is on:  
 - **Response Times**: How do writers adapt to AI-generated suggestions over time?  
 - **Perceived vs. Actual Contributions**: Do writers accurately assess how much they wrote versus how much AI contributed?  
 
@@ -32,9 +32,9 @@ This scatter plot compares the actual and perceived contributions in **argumenta
 
 ## COAUTHOR Dataset & Acknowledgments  
 
-- This research is based on the **COAUTHOR dataset**, a human-AI collaborative writing dataset that records keystroke-level interactions with GPT-3.  
-- Learn more about the dataset here: [COAUTHOR Project](https://coauthor.stanford.edu/).  
-- This study was inspired by the original **COAUTHOR paper**: [Read the paper](https://arxiv.org/abs/2201.06796).   
+- This research is based on the **CoAuthor dataset**, a human-AI collaborative writing dataset that records keystroke-level interactions with GPT-3.  
+- Learn more about the dataset here: [CoAuthor Project](https://coauthor.stanford.edu/).  
+- This study was inspired by the original **CoAuthor paper**: [Read the paper](https://arxiv.org/abs/2201.06796).   
 - Special thanks to Professor Mina Lee for guidance on this research.  
 
 ---
